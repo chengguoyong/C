@@ -1,3 +1,5 @@
+//A输入一个整数，然后系统给出整数个数的费波纳茨数列 
+
 #include <iostream>
  using namespace std;
  void fibonacci (int g)
