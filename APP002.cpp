@@ -1,4 +1,4 @@
-//输入长宽高，然后计算长方体的体积 
+//Input the Length,Width,High ; Output the volumn
 
 #include <iostream>
 #include <iomanip>

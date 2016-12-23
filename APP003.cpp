@@ -1,4 +1,4 @@
-//输入Pie的取值，输入半径，然后计算圆的周长和面积
+//Input Pie & Radius，Output Perimeter of Round and Area of Round
  
 #include <iostream>
 #include <iomanip>

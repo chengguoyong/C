@@ -1,4 +1,4 @@
-//A输入一个整数，然后系统给出整数个数的费波纳茨数列 
+//A: Input a Integer, Out the Fibonacci Number
 
 #include <iostream>
  using namespace std;

@@ -1,4 +1,4 @@
-//生成十个随机数，然后放到数组中，显示出来。以十做模，求出平均数，然后显示。 
+//Gen ten random number, put into array, and mod 10, count the Average.
 
 #include <iostream>
 #include <ctime>
